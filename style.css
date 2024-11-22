@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+}
+.student{
+    color: blue;
+    text-align: center;
+    font-size: 120px;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+#heading{
+    color: beige;
+}
