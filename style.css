@@ -1,13 +1,34 @@
 body{
     background-color: aquamarine;
 }
-.student{
+#heading{
     color: blue;
     text-align: center;
+    background-color: blueviolet;
     font-size: 120px;
+    color: yellow;
     text-decoration: underline;
-    text-decoration-style: dotted;
+    text-decoration-color: red;
+    text-decoration-style: wavy;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-#heading{
-    color: beige;
+.para{
+    font-weight: bold;
+    text-transform: capitalize;
+}
+#head{
+    text-shadow: -4px -5px 2px green;
+    text-transform: lowercase;
+    text-align: center;
+}
+.container{
+    background-color: antiquewhite;
+}
+.container h1{
+    background-color: red;
+}
+.container button{
+    background-color: blue;
+    color: white;
 }

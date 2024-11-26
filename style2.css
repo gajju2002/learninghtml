@@ -1,0 +1,16 @@
+.head{
+    font-family: "Edu AU VIC WA NT Arrows", cursive;
+}
+.head2{
+    font-family: "Bokor", system-ui;
+}
+.head3{
+    font-family: "Roboto Mono", monospace;
+}
+.wrapper{
+    background-color: red;
+    padding: 20px;
+}
+.wrapper button{
+    padding: 12px 20px;
+}
