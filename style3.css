@@ -1,0 +1,14 @@
+.containor{
+    background-color: blueviolet;
+    padding: 20px;
+    margin: 40px;
+    border: 10px solid greenyellow;
+    border-top-left-radius: 40px; 
+    border-bottom-right-radius: 40px; 
+    box-shadow: 5px 5px 13px 3px red;
+}
+.main_containor{
+    background-color: brown;
+    display: flex;
+    justify-content: space-evenly;
+}
