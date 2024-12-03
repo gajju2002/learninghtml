@@ -1,0 +1,21 @@
+header{
+    background-image: url(photo..jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar ul{
+    display: flex;
+    list-style: none;
+    gap: 30px;
+}
+.icfb{
+    font-size: 40px;
+    color: blue;
+    padding: 15px;
+    background-color: green;
+    border-radius: 30px;
+}

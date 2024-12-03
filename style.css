@@ -24,6 +24,7 @@ body{
 }
 .container{
     background-color: antiquewhite;
+
 }
 .container h1{
     background-color: red;
@@ -31,4 +32,5 @@ body{
 .container button{
     background-color: blue;
     color: white;
+    box-sizing: 40px;
 }
