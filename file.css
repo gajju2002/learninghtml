@@ -1,0 +1,20 @@
+.head1::first-letter{
+    font-size: 80px;
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p::first-line{
+    text-decoration: underline;
+    color: orange;
+}
+.head1::selection{
+    background-color: red;
+    color:aliceblue;
+}
+input::placeholder{
+    color:blue;
+}
+.name::before{
+    content: "kumar";
+    color: red;
+}
