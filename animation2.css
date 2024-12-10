@@ -1,0 +1,9 @@
+*{
+    background-color: black;
+}
+.box{
+    height: 200px;
+    width: 200px;
+    align-items: center;
+    border: 12px solid red;
+}
